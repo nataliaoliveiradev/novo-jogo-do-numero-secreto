@@ -10,6 +10,7 @@ Bem-vindo ao Jogo do Número Secreto! Este é um jogo simples desenvolvido em HT
 
 ## <span style="color: #A020F0;">Funcionalidades:</span>
 - Geração aleatória de um número secreto.
+- Voice description
 - Recebimento de palpites do jogador através de prompts.
 - Fornecimento de dicas ao jogador (se o número secreto é maior ou menor que o chute).
 - Contagem do número de tentativas até o acerto.
